@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    <div id="app" ></div>
     <div class="container pt-4">
 
         @include('shared.header')
